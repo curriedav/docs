@@ -19,6 +19,7 @@ Each attribution event from Adjust will contain the following, where available:
 * Android Advertising ID
 * Android ID
 * Customer ID -- to send customer ID you must configure a `customer_id` callback parameter in Adjust. See [below](#adjust-configuration) for more
+* MPID
 
 ### Custom Attributes
 
